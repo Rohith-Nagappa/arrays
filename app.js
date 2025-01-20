@@ -106,7 +106,7 @@ console.log(sumReduce);
 const data = 'New York;10.00;2000';
 console.log(data.split(';'));
 
-const data2 = ['Ant','Man'];
+const data2 = ['Ant','Man','hhhhh'];
 console.log(data2.join(' '));
 
 const copiedData = [...data2];    // spread operator copies elements of an array and puts them in new array
